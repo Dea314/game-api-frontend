@@ -23,11 +23,11 @@ const Home = ({ response }) => {
           <br></br>
           <div>
             Have a look at the{" "}
-            <a className="anchor-tags" href="/Documents">
+            <a class="anchor-tags" href="/Documents">
               documentation
             </a>{" "}
             or have a go at the{" "}
-            <a className="anchor-tags" href="/Playground">
+            <a class="anchor-tags" href="/Playground">
               playground
             </a>{" "}
             right now!
